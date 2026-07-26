@@ -44,5 +44,5 @@ I'm passionate about building scalable backend systems, AI-powered applications,
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=chisom-cyprian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=chisom-cyprian&color=blueviolet)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=chisomcyprian&color=blueviolet)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
