@@ -46,3 +46,7 @@ I'm passionate about building scalable backend systems, AI-powered applications,
 ---
 [![](https://komarev.com/ghpvc/?username=chisomcyprian&color=blueviolet)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+
