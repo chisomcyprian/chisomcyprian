@@ -5,8 +5,8 @@
 
 ## About Me
 
-- CS Student
-- Interested in Backend Development, Artificial Intelligence & Machine Learning
+Software Engineering Student
+Interested in Backend Development, Artificial Intelligence & Machine Learning
   
 
 ---
