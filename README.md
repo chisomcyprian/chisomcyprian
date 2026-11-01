@@ -2,13 +2,10 @@
 
 # CHISOM CYPRIAN NWORIE
 
-### CS Student
-
-
-
 
 ## About Me
 
+- CS Student
 - Interested in Backend Development, Artificial Intelligence & Machine Learning
   
 
